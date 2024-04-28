@@ -1,0 +1,85 @@
+# Creatures
+## Nameplates for Creatures
+
+horse_odin: "Лошадь"
+horse_offspring: "Жеребёнок"
+
+# Materials
+## Components, miscs and materials
+
+horse_hide: "Лошадиная шкура"
+horse_hide_desc: "Шкура, снятая с лошади."
+
+trophy_horse: "Трофей лошадь"
+trophy_horse_desc: "Трофей с охоты на лошадей."
+
+# Items
+## Item names and descriptions
+
+item_horse_saddle: "Седло лошади"
+item_horse_saddle_desc: "Это седло понадобится вам, чтобы оседлать прирученную лошадь."
+
+horse_saddle: "Седло лошади"
+horse_saddle_desc: "Это седло понадобится вам, чтобы оседлать прирученную лошадь."
+
+horsesaddle_onhorse: "Седло"
+
+horse_helmet: "Лошадиный трофейный шлем"
+horse_helmet_desc: "Трофейный шлем, сделанный из трофейной головы лошади."
+
+horse_cape: "Конская накидка"
+horse_cape_desc: "Накидка, сделанная из лошадиной шкуры."
+
+horseaker: "Железный конь"
+horseaker_desc: "Двуручный боевой топор с железным наконечником в форме лошадиной головы."
+
+ArmorHorseClothHelmet_T1: "Капюшон Скогармадр"
+ArmorHorseClothHelmet_T1_desc: "Мягкий, но плотный материал из конской шкуры идеально подойдет охотникам."
+
+ArmorHorseClothChest_T1: "Нагрудник Скогармадр"
+ArmorHorseClothChest_T1_desc: "Мягкий, но плотный материал из конской шкуры идеально подойдет охотникам."
+
+ArmorHorseClothLegs_T1: "Наголенники Скогармадр"
+ArmorHorseClothLegs_T1_desc: "Мягкий, но плотный материал из конской шкуры идеально подойдет охотникам."
+
+ArmorHorseClothHelmet_T2: "Маска Драпмадр"
+ArmorHorseClothHelmet_T2_desc: "Мягкий, но толстый материал из конской шкуры, улучшенный кусочками кожи и твердой очищенной рудой."
+
+ArmorHorseClothChest_T2: "Нагрудник Драпмадр"
+ArmorHorseClothChest_T2_desc: "Мягкий, но толстый материал из конской шкуры, улучшенный кусочками кожи и твердой очищенной рудой."
+
+ArmorHorseClothLegs_T2: "Наголенники Драпмадр"
+ArmorHorseClothLegs_T2_desc: "Мягкий, но толстый материал из конской шкуры, улучшенный кусочками кожи и твердой очищенной рудой."
+
+horseset_t1: "Эффект Скогармадра"
+horseset_t1_desc: "Скогармадр был легендарным охотником, жившим в лесу. Он охотился на животных и отгонял воров. Говорят, что он был сыном лесного бога Скогара."
+
+horseset_t2: "Эффект Драпмадра"
+horseset_t2_desc: "Драпмадр был жестоким убийцей, целью которого было убийство по любой причине. Его описывают как безжалостного, беспринципного и благославленного самим Локи."
+
+# Foods
+## Consumables like meats and soups
+
+horse_meat: "Конина"
+horse_meat_desc: "Мясо лошади."
+
+horse_skewer: "Шашлык"
+horse_skewer_desc: "Шашлык из конины с вкусными добавками."
+
+horse_soup: "Густой суп"
+horse_soup_desc: "Суп из конины со специальными ингредиентами."
+
+horse_sticks: "Сосиски из конины"
+horse_sticks_desc: "Сосиски из лошадиного мяса."
+
+# Pieces
+## Buildable components
+
+pin_cart: "Конная повозка"
+horse_cart: "Конная повозка."
+
+horse_rug: "Ковер из лошадиной шкуры"
+horse_rug_desc: "Ковер, сделанный из лошадиной шкуры."
+
+horse_chair: "Лошадка"
+horse_chair_desc: "Забавная игрушка для самых маленьких викингов."
